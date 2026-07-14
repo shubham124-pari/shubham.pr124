@@ -3839,6 +3839,7 @@ html{
 
     .nav-container{
         height:76px;
+        justify-content:flex-start;
     }
 
     .nav-menu{
@@ -6023,7 +6024,7 @@ padding:60px 0;
 }
 
 .hero{
-padding-top:90px;
+padding-top:140px;
 padding-bottom:60px;
 text-align:center;
 }
